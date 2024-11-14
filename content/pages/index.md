@@ -564,28 +564,6 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
       text: For any partner ships or any questions
       color: text-dark
       type: TitleBlock
