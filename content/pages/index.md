@@ -104,10 +104,10 @@ sections:
         type: FeaturedItem
       - title: Y3-4
         subtitle: ROAD MAP
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Y3-4 will be a very exciting and interesting year here the same Hiss
+          coin team will be launching another project and holders of hiss would
+          be eligible for an airdrop and much more.  
         image:
           altText: Featured icon three
           elementId: ''
