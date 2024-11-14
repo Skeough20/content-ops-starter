@@ -78,7 +78,10 @@ sections:
         text: >
           During Y2 we would continue to push and bring more KOLS for marketing
           as well as planning Hiss coin events around the world for all of our
-          and holders.
+          and holders. Launch our staking platform were hiss coin holders can
+          stake their tokens and earn yield from locking their tokens. Also
+          introduce our Hiss trading bot allowing users to buy and sell at a
+          second when and wherever they want. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
