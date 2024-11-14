@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Staple of Solana
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Hiss is the newest snake on the blockchain, with Solana's fast slithery
+      algorithm we introduce you to, the Staple meme on the Solana blockchain
+      Eth has pepe and doge, Base has Brett, and Solana will have Hiss. Hiss
+      comes straight from the digital jungle to come to all of you as Solanas
+      newest meme, with its meme able traits and sneaky side we hope you guys
+      get a long, because we are here to stay.
     actions:
       - label: Get started
         altText: ''
