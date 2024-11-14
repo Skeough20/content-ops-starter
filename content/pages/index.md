@@ -51,7 +51,9 @@ sections:
         subtitle: ROAD MAP
         text: >
           Launch Nov 19, 2024, Further on Staking platform as well as free NFT
-          minting for the top 100 holders of hiss coin.  
+          minting for the top 100 holders of hiss coin. Also introduce our Hiss
+          trading bot allowing users to buy and sell at a second when and
+          wherever they want.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
