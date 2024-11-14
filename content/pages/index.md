@@ -38,7 +38,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: ROAD MAP
       color: text-dark
       styles:
         self:
