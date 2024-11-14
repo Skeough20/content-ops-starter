@@ -371,18 +371,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: ''
-    items: []
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: For any partner ships or any questions
       color: text-dark
