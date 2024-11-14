@@ -16,7 +16,7 @@ sections:
       newest meme, with its meme able traits and sneaky side we hope you guys
       get a long, because we are here to stay.
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
