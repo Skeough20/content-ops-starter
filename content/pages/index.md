@@ -75,10 +75,10 @@ sections:
               borderRadius: x-large
       - title: Y2
         subtitle: ROAD MAP
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          During Y2 we would continue to push and bring more KOLS for marketing
+          as well as planning Hiss coin events around the world for all of our
+          and holders.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
