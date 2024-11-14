@@ -85,7 +85,6 @@ sections:
           from locking their tokens.</div>
 
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
