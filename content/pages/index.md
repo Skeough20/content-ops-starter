@@ -570,7 +570,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
