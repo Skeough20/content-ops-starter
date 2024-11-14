@@ -40,7 +40,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: ROAD MAP
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
