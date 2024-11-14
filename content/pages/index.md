@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hiss Coin core
+      text: About Hiss Coin
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
