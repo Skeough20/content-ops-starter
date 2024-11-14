@@ -10,15 +10,7 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [
-        {
-            "label": "",
-            "altText": "Dropdown",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Sign up",
