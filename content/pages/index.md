@@ -15,16 +15,7 @@ sections:
       comes straight from the digital jungle to come to all of you as Solanas
       newest meme, with its meme able traits and sneaky side we hope you guys
       get a long, because we are here to stay.
-    actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/photo_2024-11-14_08-55-56.jpg
       altText: Unblock your team boost your time to production preview
