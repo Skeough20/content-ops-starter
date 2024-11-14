@@ -49,10 +49,9 @@ sections:
       - type: FeaturedItem
         title: Y1
         subtitle: ROAD MAP
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Launch Nov 19, 2024, Further on Staking platform as well as free NFT
+          minting for the top 100 holders of hiss coin.  
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
