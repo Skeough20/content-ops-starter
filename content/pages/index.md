@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       url: /images/photo_2024-11-14_08-55-56.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
