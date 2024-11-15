@@ -1,7 +1,7 @@
 ---
 title: ''
 slug: life-of-our-development-team
-date: '2023-03-27'
+date: ''
 excerpt: ''
 featuredImage:
   altText: Thumbnail
