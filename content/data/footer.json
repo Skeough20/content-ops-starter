@@ -39,7 +39,8 @@
             "altText": "Twitter link",
             "url": "https://x.com/hisscoin",
             "icon": "twitter",
-            "type": "Social"
+            "type": "Social",
+            "elementId": "movj"
         },
         {
             "altText": "Telagram",
