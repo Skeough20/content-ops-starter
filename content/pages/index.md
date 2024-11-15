@@ -193,10 +193,10 @@ sections:
       with a utility inside the Solana ecosystem. While being a utility with
       Dapps that will launch after hiss goes live and much more it also has a
       loveable and meme narrative behind. You may ask yourself why we chose
-      hiss, well hiss was chosen one day, because it shows what Solana truely is
+      hiss, well hiss was chosen one day, because it shows what Solana truly is
       snakes being fast, and Solana transactions even faster, also snakes
-      adaptably to be found everywhere in the world just like Solana abilatiy to
-      adpta with its large of decentralized applications. And finale the
+      adaptably to be found everywhere in the world just like Solana ability to
+      adapt with its large of decentralized applications. And finale the
       stealthiness of a snake being sneaky and unknow just like Solana that is
       private and secure.
     media:
