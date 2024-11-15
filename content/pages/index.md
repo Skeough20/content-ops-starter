@@ -230,7 +230,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Who is Hiss Coin
       color: text-dark
       styles:
         self:
