@@ -196,7 +196,7 @@ sections:
       hiss, well hiss was chosen one day, because it shows what Solana truly is,
       snakes being fast, and Solana transactions even faster, also snakes
       adaptably to be found everywhere in the world just like Solana ability to
-      adapt with its large of decentralized applications. And finale the
+      adapt with its large of decentralized applications. And final the
       stealthiness of a snake being sneaky and unknow just like Solana that is
       private and secure.
     media:
