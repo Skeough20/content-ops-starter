@@ -356,7 +356,7 @@ sections:
       text: For any partner ships or any questions
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Contact us
     text: >+
       For any questions or concerns please feel free to contact us, a team
       member will answer within 24 hours. 
