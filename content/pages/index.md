@@ -188,22 +188,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Who is Hiss Coin
-    text: >+
+    text: >
       Hiss is a unique meme coin on the Solana Blockchain, But unlike others
       with a utility inside the Solana ecosystem. While being a utility with
       Dapps that will launch after hiss goes live and much more it also has a
       loveable and meme narrative behind. You may ask yourself why we chose
-      hiss, well hiss was chosen one day, because it show what Solana truely is
+      hiss, well hiss was chosen one day, because it shows what Solana truely is
       snakes being fast, and Solana transactions even faster, also snakes
       adaptably to be found everywhere in the world just like Solana abilatiy to
       adpta with its large of decentralized applications. And finale the
       stealthiness of a snake being sneaky and unknow just like Solana that is
-      private and secure. 
-
-
-
-
-
+      private and secure.
     media:
       title: Title of the video
       url: ''
