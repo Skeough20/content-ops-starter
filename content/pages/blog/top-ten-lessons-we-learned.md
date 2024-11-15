@@ -3,9 +3,8 @@ title: The Launch
 slug: top-ten-lessons-we-learned
 date: '2024-11-15'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Hello hactchilings as we await launch, we dream of new cars and new watchs
+  that the king of Solana will give us.
 featuredImage:
   url: /images/photo_2024-11-14_08-56-04.jpg
   altText: Thumbnail
