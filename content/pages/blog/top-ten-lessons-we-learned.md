@@ -8,8 +8,8 @@ excerpt: >-
   info on where we are launching Date and aswell as to why. Hiss will be
   launching on the platfrom moonke, after talk with the team for quite a while
   we came to the conculsion that moonke is the best for the comunity, and as you
-  all know i will protect the community at all cost's, because thats what's most
-  important.
+  all know i will protect the community at all cost's, because that's what's
+  most important.
 featuredImage:
   url: /images/photo_2024-11-14_08-56-04.jpg
   altText: Thumbnail
