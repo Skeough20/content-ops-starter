@@ -172,7 +172,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Our parnerships
+      text: Our partnerships
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
