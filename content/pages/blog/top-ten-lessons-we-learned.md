@@ -6,7 +6,7 @@ excerpt: >-
   Hello hatchlings as we await launch, we dream of new cars and new watch's that
   the king of Solana will give us.I would like you give you guys some backround
   info on where we are launching Date and as well as to why. Hiss will be
-  launching on the platfrom moonke, after talk with the team for quite a while
+  launching on the platform moonke, after talk with the team for quite a while
   we came to the conculsion that moonke is the best for the comunity, and as you
   all know i will protect the community at all cost's, because that's what's
   most important.
