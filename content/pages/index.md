@@ -172,7 +172,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Our parnerships
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
