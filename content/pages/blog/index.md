@@ -8,7 +8,7 @@ topSections:
       text: Hiss Coin Launch
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: The Launch
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
