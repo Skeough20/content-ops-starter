@@ -103,7 +103,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Q3
+      - title: Q3-Q4
         subtitle: ROAD MAP
         text: |+
           Y3-4 TBA!
