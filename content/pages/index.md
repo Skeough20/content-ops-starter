@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: About Hiss Coin
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Staple of Solana
     text: >+
