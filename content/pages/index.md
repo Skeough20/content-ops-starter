@@ -48,7 +48,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Y1
+        title: Q4-Q1
         subtitle: ROAD MAP
         text: >
           Launch Nov 19, 2024, Further on Staking platform as well as free NFT
@@ -76,7 +76,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Y2
+      - title: Q2
         subtitle: ROAD MAP
         text: >+
           <div style="text-align: left">During Y2 we would continue to push and
@@ -103,7 +103,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Y3-4
+      - title: Q3-Q4
         subtitle: ROAD MAP
         text: |+
           Y3-4 TBA!
