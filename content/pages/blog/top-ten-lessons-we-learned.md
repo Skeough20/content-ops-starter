@@ -1,5 +1,5 @@
 ---
-title: The Launch
+title: The Launch!
 slug: top-ten-lessons-we-learned
 date: '2024-11-15'
 excerpt: >-
