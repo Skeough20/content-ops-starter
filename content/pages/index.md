@@ -133,7 +133,7 @@ sections:
     actions: []
     badge:
       label: hiss coin roadmap
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
