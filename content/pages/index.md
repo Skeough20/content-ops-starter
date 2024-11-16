@@ -105,10 +105,9 @@ sections:
         type: FeaturedItem
       - title: Y3-4
         subtitle: ROAD MAP
-        text: >
-          Y3-4 will be a very exciting and interesting year here the same Hiss
-          coin team will be launching another project and holders of hiss would
-          be eligible for an airdrop and much more.  
+        text: |+
+          Y3-4 TBA!
+
         image:
           altText: Featured icon three
           elementId: ''
@@ -220,64 +219,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: For any partner ships or any questions
-      color: text-dark
-      type: TitleBlock
-    subtitle: Contact us
-    text: >+
-      For any questions or concerns please feel free to contact us, a team
-      member will answer within 24 hours. 
-
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-dark
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
