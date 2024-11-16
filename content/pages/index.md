@@ -48,7 +48,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Q
+        title: Q4-Q1
         subtitle: ROAD MAP
         text: >
           Launch Nov 19, 2024, Further on Staking platform as well as free NFT
