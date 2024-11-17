@@ -5,7 +5,8 @@ date: '2024-11-15'
 excerpt: >-
   Hello hatchlings as we await launch, we dream of new cars and new watch's that
   the king of Solana will give us.I would like you give you guys some backround
-  info on where we are launching Date and as well as to why.
+  info on where we are launching Date and as well as to why. Click here to find
+  out more
 featuredImage:
   url: /images/photo_2024-11-14_08-56-04.jpg
   altText: Thumbnail
