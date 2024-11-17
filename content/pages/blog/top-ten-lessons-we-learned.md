@@ -4,7 +4,7 @@ slug: top-ten-lessons-we-learned
 date: '2024-11-15'
 excerpt: >-
   Hello hatchlings as we await launch, we dream of new cars and new watch's that
-  the king of Solana will give us.I would like you give you guys some backround
+  the king of Solana will give us.I would like you give you guys some background
   info on where we are launching Date and as well as to why. Click the titile to
   read more!
 featuredImage:
