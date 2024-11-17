@@ -5,16 +5,22 @@ sections:
   - type: GenericSection
     title:
       text: About Hiss Coin
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Staple of Solana
     text: >+
-      ###### Hiss is the newest snake on the blockchain, with Solana's fast
-      slithery algorithm we introduce you to, the Staple meme on the Solana
-      blockchain Eth has pepe and doge, Base has Brett, and Solana will have
-      Hiss. Hiss comes straight from the digital jungle to come to all of you as
-      Solanas newest meme, with its meme able traits and sneaky side we hope you
-      guys get a long, because we are here to stay.
+      Hiss is not just another meme coin on the Solana Blockchain—it’s a coin
+      with purpose. Unlike most, Hiss combines a fun, meme-worthy narrative with
+      real utility within the Solana ecosystem. Backed by innovative DApps set
+      to launch after its debut, Hiss is poised to deliver more than just
+      laughs; it’s here to make an impact.
+
+      But why “Hiss”? The inspiration comes from the very essence of Solana.
+      Snakes, like Solana transactions, are lightning-fast. Their adaptability
+      mirrors Solana’s ability to support many decentralized applications
+      worldwide. And just as snakes move with stealth, Solana ensures privacy
+      and security at its core.
+       Hiss brings this energy to life, wrapping utility, speed, and stealth in a narrative that’s both relatable and meme able. It’s not just a coin—it’s a movement that showcases the best of what Solana has to offer.
 
     actions: []
     media:
@@ -27,7 +33,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -40,7 +46,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: ROAD MAP
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -127,14 +133,14 @@ sections:
     actions: []
     badge:
       label: hiss coin roadmap
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -146,7 +152,7 @@ sections:
       subtitle:
         textAlign: center
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -201,7 +207,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: col
@@ -210,7 +216,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
