@@ -27,4 +27,16 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
- Hiss will be launching on the platform moonke, after talking with the team for quite a while we came to the conclusion that moonke is the best for the community, and as you all know I will protect the community at all costs, because that's what's most important. Here the community will be able to to buy into a pre-sale using Solana to get give a percentage of tokens upon launch. The Solana what would be received from the presale would be used though a moonke smart contract to create a open book market and also add Liquid to the project. This would all be taking place on the last week of November exact day TBA. Also next week we will be announce some partnerships with some big names to make yall excited. Looking forward to having an incredible launch with all you there, Lets get ready HISS COIN TO THE MOON!.
+We’re excited to announce that HISS will be launching on the Moonke platform! After thorough discussions with their team, we’ve determined that Moonke is the best choice for our community. As always, protecting and prioritizing the community remains my top priority.
+
+Through Moonke, the community will have the opportunity to participate in a pre-sale using Solana. Participants will receive a percentage of tokens upon launch. The Solana raised during the pre-sale will be managed via a Moonke smart contract and used to:
+
+1.  Create an open book market.
+
+2.  Add liquidity to the project.
+
+The launch is scheduled to happen on 19th of November.
+
+Next week, we’ll also reveal some exciting partnerships with big names—stay tuned! Let’s make this launch unforgettable.
+
+HISS COIN TO THE MOON!
