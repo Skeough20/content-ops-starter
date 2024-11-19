@@ -35,7 +35,7 @@ Through Moonke, the community will have the opportunity to participate in a pre-
 
 2.  Add liquidity to the project.
 
-The launch is scheduled to happen on 3 of December.
+The launch is scheduled to happen on 3 of December 2024 .
 
 Next week, we’ll also reveal some exciting partnerships with big names—stay tuned! Let’s make this launch unforgettable.
 
